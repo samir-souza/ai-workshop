@@ -1,0 +1,5 @@
+<speak>
+Então ela entrou no quarto correndo e resmungou: <amazon:effect name="drc"><prosody volume="x-loud" rate="x-slow" pitch="x-high">Apolônio! Apolônio!</prosody></amazon:effect>.
+Ele respondeu: <amazon:effect name="drc"><prosody volume="loud" rate="fast" pitch="x-high">o quê!</prosody></amazon:effect>
+E ela sussurrou em seu ouvido: <amazon:effect name="whispered">Com grandes poderes vêm grandes responsabilidades</amazon:effect>
+</speak>

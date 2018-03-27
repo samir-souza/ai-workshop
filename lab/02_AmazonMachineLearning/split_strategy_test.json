@@ -1,0 +1,7 @@
+{
+  "splitting": {
+    "percentBegin": 70,
+    "percentEnd": 100,
+    "strategy": "random"
+  }
+}

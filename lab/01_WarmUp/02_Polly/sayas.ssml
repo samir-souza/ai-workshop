@@ -1,0 +1,4 @@
+<speak>
+<s>O celular do presidente é: 9816-0245</s>
+O celular do presidente é: <say-as interpret-as="telephone">9816-0245</say-as>
+</speak>

@@ -1,0 +1,25 @@
+{
+
+    "version": "1.0",
+    "rowId": null,
+    "rowWeight": null,
+    "targetAttributeName": "category",
+    "dataFormat": "CSV",
+    "dataFileContainsHeader": true,
+    "attributes": [
+        {
+            "attributeName": "product_name",
+            "attributeType": "TEXT"
+        },
+        {
+            "attributeName": "category",
+            "attributeType": "CATEGORICAL"
+        },
+        {
+            "attributeName": "sub_category",
+            "attributeType": "CATEGORICAL"
+        }
+    ],
+    "excludedAttributeNames": [ ]
+
+}
