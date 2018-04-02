@@ -1,0 +1,5 @@
+<speak>
+<p>Con grandes poderes vienen grandes responsabilidades</p>
+<p>Con grandes poderes<break strength="medium"/> vienen grandes responsabilidades</p>
+<p>Con grandes poderes<break time="2s"/> vienen grandes responsabilidades</p>
+</speak>

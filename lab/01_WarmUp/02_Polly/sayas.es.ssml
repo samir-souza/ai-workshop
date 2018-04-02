@@ -1,0 +1,4 @@
+<speak>
+<s>El presidente nasció el 19680104</s>
+El presidente nasció el <say-as interpret-as="date">19680104</say-as>
+</speak>
